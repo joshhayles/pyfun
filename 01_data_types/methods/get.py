@@ -1,12 +1,12 @@
 # The get() method on dicts and default values
 
-user_id_to_name = {
+name_for_userid = {
     100: "John",
     102: "Bobby",
     103: "Susan"
 }
 
-def greeting(user_id):
-    return "Hi, %s!" % user_id_to_name.get(user_id, 'there')
+def greeting(userid):
+    return "Hi %s" % name_for_userid.get(userid, "there")
 
 print(greeting(100))
