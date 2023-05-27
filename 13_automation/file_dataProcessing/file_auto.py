@@ -1,0 +1,1 @@
+# File and data processing: Python's file handling capabilities, along with libraries like os and shutil, enable automating tasks such as file renaming, copying, moving, and bulk data processing.
