@@ -9,3 +9,4 @@ myfunc()
 print("Python is " + x)  # -> Python is fantastic
 
 # you can also use the "global" keyword to change the value of another variable
+
