@@ -9,4 +9,4 @@ name_for_userid = {
 def greeting(userid):
     return "Hi %s" % name_for_userid.get(userid, "there")
 
-print(greeting(100))
+print(greeting(100))  # -> Hi John
