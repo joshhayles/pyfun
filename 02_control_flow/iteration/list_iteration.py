@@ -13,7 +13,7 @@ for i in range(len(a)):
 # 4 lamb
 
 
-#  You can do the same thing using enumerate():
+#  You can do the same thing using enumerate(), which will iterate over the list and provide both the index and the corresponding item:
 
 b = ['Mary', 'had', 'a', 'little', 'lamb']
 
